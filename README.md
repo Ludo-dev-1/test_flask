@@ -11,7 +11,7 @@ Elle reprend les routes existantes du projet `flask-demo` et ajoute une nouvelle
 
 1. Cloner le projet :
 ```bash
-git clone <url-du-repo>
+git clone https://github.com/Ludo-dev-1/test_flask.git
 cd test_flask
 ```
 
@@ -26,7 +26,7 @@ venv\Scripts\activate     # Window
 ## Installer les dépendances :
 
 ```bash
-pip install flas
+pip install flask
 ```
 ## Lancement du projet :
 
